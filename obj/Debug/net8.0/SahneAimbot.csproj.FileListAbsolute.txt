@@ -1,0 +1,12 @@
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\bin\Debug\net8.0\SahneAimbot.deps.json
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\bin\Debug\net8.0\SahneAimbot.dll
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\bin\Debug\net8.0\SahneAimbot.pdb
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\SahneAimbot.csproj.AssemblyReference.cache
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\SahneAimbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\SahneAimbot.AssemblyInfoInputs.cache
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\SahneAimbot.AssemblyInfo.cs
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\SahneAimbot.csproj.CoreCompileInputs.cache
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\SahneAimbot.dll
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\refint\SahneAimbot.dll
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\SahneAimbot.pdb
+C:\Users\MrCaniwes\source\repos\SahneAimbot\SahneAimbot\obj\Debug\net8.0\ref\SahneAimbot.dll
